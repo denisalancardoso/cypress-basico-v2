@@ -26,6 +26,8 @@ Para inicializar o projeto, basta digitar no terminal (dentro da pasta do projet
 
 `npm install -D cypress@9.5.1 --save-dev`
 
+Logo após, execute o comando `npx cypress open` para abrir o Cypress pela primeira vez
+
 ### Execução dos testes
 
 Você pode executar os testes via desktop ou mobile.
